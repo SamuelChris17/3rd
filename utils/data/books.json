@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Da Vinci Code",
+      "author": "Dan Brown",
+      "format": "pdf"
+    },
+    {
+      "id": 2,
+      "title": "things fall apart",
+      "author": "Chinua Achebe",
+      "format": "epub"
+    },
+    {
+      "id": 3,
+      "title": "half of a yellow sun",
+      "author": "Chimamanda Ngozi Adichie",
+      "format": "pdf"
+    },
+    {
+      "id": 4,
+      "title": "Gifted Hands",
+      "author": "Ben Carson",
+      "format": "txt"
+    },
+    {
+      "id": 5,
+      "title": "the life changer",
+      "author": "JAMB article",
+      "format": "pdf"
+    }
+  ]
